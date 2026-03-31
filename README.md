@@ -1,6 +1,6 @@
-<img src="./assets/92c6565d9a7f1b52361302580bb21e8d.gif" width="100%" />
 
 # 👋 Célio Veloso
+<img src="./assets/92c6565d9a7f1b52361302580bb21e8d.gif" width="100%" />
 
 🚀 dev full stack | dados | erp sankhya
 
