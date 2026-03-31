@@ -1,4 +1,6 @@
-# 👋 celio veloso
+<img src="./assets/banner.gif" width="100%" />
+
+# 👋 Célio Veloso
 
 🚀 dev full stack | dados | erp sankhya
 
@@ -32,5 +34,5 @@ node | react | next | php | sql | aws | docker | power bi
 
 ## 📫 contato
 
-linkedin: celioveloso
+linkedin: https://www.linkedin.com/in/celioveloso/
 email: velosocelio22@gmail.com
