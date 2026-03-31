@@ -1,4 +1,4 @@
-<img src="./assets/banner.gif" width="100%" />
+<img src="./assets/5a6463e51b284bfcbc34869dc72cf0cd.gif" width="100%" />
 
 # 👋 Célio Veloso
 
