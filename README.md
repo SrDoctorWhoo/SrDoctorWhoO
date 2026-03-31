@@ -1,4 +1,3 @@
-<img src="./assets/92c6565d9a7f1b52361302580bb21e8d.gif" width="100%" />
 
 <h1 align="center">Célio Veloso</h1>
 
