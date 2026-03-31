@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 celio veloso
 
-<!--
-**SrDoctorWhoo/SrDoctorWhoO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 dev full stack | dados | erp sankhya
 
-Here are some ideas to get you started:
+trabalho com automação, integrações e sistemas pra empresa
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 o que eu faço
+
+- sistemas web (node, react, next)
+- sql avançado
+- integrações com sankhya (procedures, triggers)
+- dashboards (power bi)
+- aws e docker
+
+---
+
+## 🧠 stack
+
+node | react | next | php | sql | aws | docker | power bi
+
+---
+
+## 📊 foco
+
+- saas
+- automação empresarial
+- sistemas financeiros
+
+---
+
+## 📫 contato
+
+linkedin: celioveloso
+email: velosocelio22@gmail.com
