@@ -33,24 +33,6 @@
 
 ---
 
-## 📊 github stats
-
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=SrDoctorWho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-  />
-</p>
-
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrDoctorWho&layout=compact&theme=tokyonight"
-  />
-</p>
-
----
-
 ## 🚀 projetos
 
 <p align="center">
