@@ -33,12 +33,6 @@
 
 ---
 
-## 🚀 Projetos
-
-<p align="center">
-  <img src="./assets/92c6565d9a7f1b52361302580bb21e8d.gif" width="320" />
-</p>
-
 ### ⚙️ Sistemas e automações
 
 - **check360** → Checklist com validação por foto
